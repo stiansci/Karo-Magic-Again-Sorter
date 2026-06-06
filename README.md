@@ -16,20 +16,24 @@ Instead of using arbitrary numbers (like "cards with 3-5 agains"), this add-on u
 
 ### Features
 *   **One-Click Organization:** Just select your Superdeck and click a button. The add-on creates the subdecks and moves the cards automatically.
+*   **Reversible Sorting (Safe Restore):** Want your old deck structure back after your exams? Before sorting, the add-on safely tags cards with their original subdeck names. Simply click "Restore Original Subdecks" to instantly return every card to its rightful place!
 *   **Deck Preset Inheritance:** The newly created Bucket subdecks automatically inherit the Deck Options/Preset of your original Superdeck, so your scheduling settings remain perfectly intact.
 *   **Auto-Language Detection:** The UI automatically adapts to your Anki language! Currently supports **English**, **Italian**, and **Spanish**. 
 
 ### How to use
 1. Open Anki and go to the top menu bar: **Tools** > **Karo Magic Again Sorter...**
 2. A dialog will appear. Select the Superdeck you want to sort from the dropdown menu.
-3. Click **"Sort and Distribute Cards"**.
+3. Click **"Sort into 4 Buckets"**.
 4. Enjoy your newly organized deck and start destroying those leeches!
+5. *Optional:* When you're done studying, open the add-on again, select your deck, and click **"Restore Original Subdecks"** to put your Anki tree back exactly how it was.
 
 ### Supported Languages
 *   English
 *   Italiano
 *   Español
 *(The add-on auto-detects your Anki interface language. If your language is not supported, it safely defaults to English).*
+
+⚙️ **Compatibility:** Fully tested and working on modern Anki versions, including **Anki 25.09+** (Qt6 / Python 3.13).
 
 ---
 **Created by Karo Magic** 
